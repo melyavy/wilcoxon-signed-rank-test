@@ -10,17 +10,23 @@ This repository contains a detailed implementation of the Wilcoxon Signed-Rank T
 
 Install dependencies using:
 
-pip install scipy pandas tabulate openpyxl
+```shell
+pip install scipy pandas numpy tabulate math
+```
 
 ## 🚀 How to Run
 
 Open the notebook:
 
-</> wilcoxon_signed_rank_test.ipynb </>
+```shell
+wilcoxon_signed_rank_test.ipynb
+```
 
 Ensure the file:
 
-<< Wilcoxon-Signed-Ranks-Table.xlsx >>
+```shell
+Wilcoxon-Signed-Ranks-Table.xlsx
+```
 
 is located in the correct directory (or adjust the file path inside the notebook).
 
